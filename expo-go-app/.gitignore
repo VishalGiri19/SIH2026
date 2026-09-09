@@ -1,0 +1,23 @@
+.venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Local secrets and environment files
+.env
+mobile/.env
+*.local
+
+# Expo and React Native generated files
+mobile/node_modules/
+mobile/.expo/
+mobile/.expo-*/
+mobile/dist/
+mobile/web-build/
+
+# Local build/export output
+*.log

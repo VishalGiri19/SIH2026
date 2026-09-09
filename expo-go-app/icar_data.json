@@ -1,0 +1,316 @@
+{
+  "TOM_LB_01": {
+    "disease_id": "TOM_LB_01",
+    "disease_name": "Tomato Late Blight",
+    "crop": "Tomato",
+    "chemical_treatment": {
+      "product_name": "Mancozeb 75% WP",
+      "active_ingredient": "Mancozeb",
+      "dosage_per_acre_grams": 600,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Neem oil spray (1500 PPM) @ 2.5 L/ha + Trichoderma viride 1% WP @ 2 kg/acre",
+    "dos_list": [
+      "Maintain proper field drainage to prevent moisture accumulation",
+      "Apply protective fungicides during cloudy or humid weather conditions",
+      "Ensure uniform spray coverage on both upper and lower leaf surfaces"
+    ],
+    "donts_list": [
+      "Do not use overhead sprinkler irrigation during high humidity",
+      "Avoid excessive nitrogenous fertilizer applications",
+      "Do not leave infected crop residues in the field after harvest"
+    ]
+  },
+  "TOM_ELB_01": {
+    "disease_id": "TOM_ELB_01",
+    "disease_name": "Tomato Early Blight",
+    "crop": "Tomato",
+    "chemical_treatment": {
+      "product_name": "Chlorothalonil 75% WP",
+      "active_ingredient": "Chlorothalonil",
+      "dosage_per_acre_grams": 450,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Foliar spray of Pseudomonas fluorescens 1% WP @ 1 kg/acre",
+    "dos_list": [
+      "Prune lower infected leaves to improve air circulation",
+      "Mulch soil surface to prevent fungal spore splash-back"
+    ],
+    "donts_list": [
+      "Avoid handling wet plants during early morning hours",
+      "Do not plant solanaceous crops consecutively in the same field"
+    ]
+  },
+  "COT_APH_01": {
+    "disease_id": "COT_APH_01",
+    "disease_name": "Cotton Aphids & Sucking Pests",
+    "crop": "Cotton",
+    "chemical_treatment": {
+      "product_name": "Imidacloprid 17.8% SL",
+      "active_ingredient": "Imidacloprid",
+      "dosage_per_acre_grams": 50,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Neem Seed Kernel Extract (NSKE) 5% or Neem Oil 1500 PPM @ 1 L/acre",
+    "dos_list": [
+      "Install yellow sticky traps @ 10 traps per acre for early monitoring",
+      "Inspect the underside of young terminal leaves twice weekly",
+      "Maintain border crops like maize or sorghum to encourage beneficial insects"
+    ],
+    "donts_list": [
+      "Do not spray broad-spectrum chemical insecticides if ladybird beetles are present",
+      "Avoid water stress during early vegetative growth stages",
+      "Do not exceed recommended chemical concentrations to prevent pest resistance"
+    ]
+  },
+  "COT_PBW_01": {
+    "disease_id": "COT_PBW_01",
+    "disease_name": "Cotton Pink Bollworm",
+    "crop": "Cotton",
+    "chemical_treatment": {
+      "product_name": "Profenofos 50% EC",
+      "active_ingredient": "Profenofos",
+      "dosage_per_acre_grams": 400,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Release Trichogramma bactrae egg parasitoids @ 60,000/acre",
+    "dos_list": [
+      "Install Pheromone traps @ 2 traps/acre for pest monitoring",
+      "Destroy rosette flowers showing internal larvae"
+    ],
+    "donts_list": [
+      "Avoid extending the cotton crop duration beyond 160 days",
+      "Do not stack crop residues near active fields"
+    ]
+  },
+  "RIC_BLA_01": {
+    "disease_id": "RIC_BLA_01",
+    "disease_name": "Rice Leaf Blast",
+    "crop": "Rice",
+    "chemical_treatment": {
+      "product_name": "Tricyclazole 75% WP",
+      "active_ingredient": "Tricyclazole",
+      "dosage_per_acre_grams": 120,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Pseudomonas fluorescens 0.5% WP @ 1 kg/acre as seed treatment and foliar spray",
+    "dos_list": [
+      "Use certified disease-resistant seed varieties",
+      "Maintain a 2 to 5 cm standing water level during the tillering stage",
+      "Apply nitrogenous fertilizers in split doses rather than a single heavy application"
+    ],
+    "donts_list": [
+      "Avoid heavy top-dressing of urea during overcast or cloudy weather",
+      "Do not allow the field to dry completely during the panicle initiation stage",
+      "Avoid using seeds from previously infected crop cycles"
+    ]
+  },
+  "RIC_BLB_01": {
+    "disease_id": "RIC_BLB_01",
+    "disease_name": "Rice Bacterial Leaf Blight",
+    "crop": "Rice",
+    "chemical_treatment": {
+      "product_name": "Streptocycline + Copper Oxychloride 50% WP",
+      "active_ingredient": "Streptomycin sulphate + Tetracycline hydrochloride",
+      "dosage_per_acre_grams": 30,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Foliar spray of fresh cow dung extract 5% + Neem oil 1%",
+    "dos_list": [
+      "Drain field water temporarily upon observing kresek symptoms",
+      "Ensure clean field channels to prevent waterborne bacteria spread"
+    ],
+    "donts_list": [
+      "Do not clip leaf tips during transplanting operations",
+      "Avoid excessive field flooding across infected plots"
+    ]
+  },
+  "WHE_APH_01": {
+    "disease_id": "WHE_APH_01",
+    "disease_name": "Wheat Foliar Aphids",
+    "crop": "Wheat",
+    "chemical_treatment": {
+      "product_name": "Imidacloprid 200 SL",
+      "active_ingredient": "Imidacloprid",
+      "dosage_per_acre_grams": 80,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Spray Neem Oil (1500 PPM) @ 1 L/acre or release Chrysoperla carnea predators",
+    "dos_list": [
+      "Monitor border rows early in the season for pest arrival",
+      "Spray during late afternoon hours to preserve natural pollinators",
+      "Balance crop nutrition using recommended NPK fertilizer ratios"
+    ],
+    "donts_list": [
+      "Do not perform chemical sprays if natural predator populations are high",
+      "Avoid late sowing of wheat crops which increases aphid vulnerability",
+      "Do not reuse chemical containers for storing farm inputs"
+    ]
+  },
+  "WHE_YRU_01": {
+    "disease_id": "WHE_YRU_01",
+    "disease_name": "Wheat Yellow Stripe Rust",
+    "crop": "Wheat",
+    "chemical_treatment": {
+      "product_name": "Propiconazole 25% EC",
+      "active_ingredient": "Propiconazole",
+      "dosage_per_acre_grams": 200,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Foliar spray of bio-agent Bacillus subtilis @ 1 kg/acre",
+    "dos_list": [
+      "Survey fields weekly during cool, moist winter conditions",
+      "Apply systemic fungicide immediately upon observing yellow pustule stripes"
+    ],
+    "donts_list": [
+      "Avoid growing susceptible varieties in sub-mountainous zones",
+      "Do not delay chemical sprays if rust spots spread across flags leaves"
+    ]
+  },
+  "POT_EB_01": {
+    "disease_id": "POT_EB_01",
+    "disease_name": "Potato Early Blight",
+    "crop": "Potato",
+    "chemical_treatment": {
+      "product_name": "Chlorothalonil 75% WP",
+      "active_ingredient": "Chlorothalonil",
+      "dosage_per_acre_grams": 400,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Trichoderma viride @ 2 kg/acre soil application mixed with Farmyard Manure (FYM)",
+    "dos_list": [
+      "Practice a 3-year crop rotation with non-solanaceous crops",
+      "Destroy and burn infected crop leaves and tubers after harvest",
+      "Apply protective sprays as soon as lower leaves show concentric ring spots"
+    ],
+    "donts_list": [
+      "Do not store harvested tubers in warm, unventilated rooms",
+      "Avoid physical tuber injury during harvesting and sorting",
+      "Do not irrigate fields immediately before harvesting"
+    ]
+  },
+  "POT_LB_01": {
+    "disease_id": "POT_LB_01",
+    "disease_name": "Potato Late Blight",
+    "crop": "Potato",
+    "chemical_treatment": {
+      "product_name": "Cymoxanil 8% + Mancozeb 64% WP",
+      "active_ingredient": "Cymoxanil + Mancozeb",
+      "dosage_per_acre_grams": 600,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Spray Copper Hydroxide 77% WP @ 500g/acre",
+    "dos_list": [
+      "Earthing up soil firmly to protect underground tubers from spores",
+      "Destroy haulms 10-12 days before harvest if late blight appears"
+    ],
+    "donts_list": [
+      "Do not harvest during wet weather conditions",
+      "Avoid using blighted seed tubers for planting"
+    ]
+  },
+  "GKM_PDB_01": {
+    "disease_id": "GKM_PDB_01",
+    "disease_name": "Chickpea Gram Pod Borer",
+    "crop": "Chickpea",
+    "chemical_treatment": {
+      "product_name": "Chlorantraniliprole 18.5% SC",
+      "active_ingredient": "Chlorantraniliprole",
+      "dosage_per_acre_grams": 50,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "HaNPV @ 100 LE/acre + 0.5% jaggery or Bacillus thuringiensis (Bt) @ 400 g/acre",
+    "dos_list": [
+      "Erect T-shaped bird perches @ 20 per acre for natural bird predation",
+      "Install Helicoverpa pheromone traps @ 5 traps per acre for early monitoring",
+      "Intercrop with coriander or mustard to attract beneficial parasitoids"
+    ],
+    "donts_list": [
+      "Do not delay spraying once egg laying or early instar larvae are observed",
+      "Avoid spraying during peak daylight hours when bees are foraging",
+      "Do not apply synthetic pyrethroids repeatedly to prevent resistance build-up"
+    ]
+  },
+  "BRN_WHF_01": {
+    "disease_id": "BRN_WHF_01",
+    "disease_name": "Brinjal Whitefly & Jassids",
+    "crop": "Brinjal",
+    "chemical_treatment": {
+      "product_name": "Afidopyropen 50 g/L DC",
+      "active_ingredient": "Afidopyropen",
+      "dosage_per_acre_grams": 400,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Yellow sticky traps @ 15 traps/acre + Neem oil (10,000 PPM) @ 3 ml/L water",
+    "dos_list": [
+      "Clean weeds and alternate hosts around field borders",
+      "Maintain proper plant spacing to allow ventilation and sunlight penetration",
+      "Use yellow sticky traps early in the cropping season"
+    ],
+    "donts_list": [
+      "Do not spray broad-spectrum insecticides close to harvest times",
+      "Avoid continuous monocropping of solanaceous vegetables in the same field",
+      "Do not exceed prescribed chemical application frequencies"
+    ]
+  },
+  "MAI_FAW_01": {
+    "disease_id": "MAI_FAW_01",
+    "disease_name": "Maize Fall Armyworm",
+    "crop": "Maize",
+    "chemical_treatment": {
+      "product_name": "Emamectin Benzoate 5% SG",
+      "active_ingredient": "Emamectin Benzoate",
+      "dosage_per_acre_grams": 80,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Apply whorl application of sand + neem cake mix (9:1 ratio)",
+    "dos_list": [
+      "Apply insecticides directly into crop whorls using nozzle attachments",
+      "Deploy FAW pheromone traps @ 4 traps/acre upon sowing"
+    ],
+    "donts_list": [
+      "Do not use blanket foliar spray; target crop whorls directly",
+      "Avoid chemical applications when natural earwigs are abundant"
+    ]
+  },
+  "SUG_BOR_01": {
+    "disease_id": "SUG_BOR_01",
+    "disease_name": "Sugarcane Early Shoot Borer",
+    "crop": "Sugarcane",
+    "chemical_treatment": {
+      "product_name": "Fipronil 0.3% GR",
+      "active_ingredient": "Fipronil",
+      "dosage_per_acre_grams": 10000,
+      "water_liters_per_acre": 0
+    },
+    "organic_alternative": "Release Trichogramma chilonis egg parasitoids @ 20,000/acre at 15-day intervals",
+    "dos_list": [
+      "Apply granules in soil furrows during planting or early irrigation",
+      "Remove and destroy dead hearts showing borer entrance holes"
+    ],
+    "donts_list": [
+      "Do not allow field drying during early shoot growth",
+      "Avoid applying soil granules without immediate irrigation"
+    ]
+  },
+  "SOY_RST_01": {
+    "disease_id": "SOY_RST_01",
+    "disease_name": "Soybean Rust",
+    "crop": "Soybean",
+    "chemical_treatment": {
+      "product_name": "Hexaconazole 5% EC",
+      "active_ingredient": "Hexaconazole",
+      "dosage_per_acre_grams": 200,
+      "water_liters_per_acre": 200
+    },
+    "organic_alternative": "Foliar spray of Neem Seed Kernel Extract (NSKE) 5%",
+    "dos_list": [
+      "Inspect lower leaves of canopy during flowering stage",
+      "Spray immediately at first appearance of tan lesions"
+    ],
+    "donts_list": [
+      "Do not plant high-density crops without adequate row spacing",
+      "Avoid overhead irrigation during flowering phase"
+    ]
+  }
+}
