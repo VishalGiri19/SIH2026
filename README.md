@@ -14,7 +14,7 @@ web-based farmer diagnostics and regional administrative command.
 
 * Farmer Mobile App (Expo Go): Built strictly for field-level mobile use.
   Features image scanning, risk detection, catalog-backed Do's & Don'ts, CPCB
-  dosage calculations, and regional audio advisories.
+  dosage calculations, and regional audio advisories..
 
 * Dual-POV Web Portal: Offers a browser-based diagnostic scanner for farmers
   while serving administrators with expert triage tools, GIS outbreak hotspot
