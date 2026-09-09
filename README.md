@@ -1,5 +1,6 @@
 #🌾 Agri Sentinel — Two-Tier Agricultural Diagnostic & Monitoring Platform
 
+### Prerequisites
 
 Agri Sentinel is an AI-powered agricultural monitoring and diagnostic system built
 to serve both field-level farmers and regional agricultural administrators.
